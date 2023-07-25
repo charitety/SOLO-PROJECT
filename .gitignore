@@ -4,7 +4,7 @@ backend/package-lock.json
 backend/package.json
 client/package-lock.json
 client/package.json
-backend/.pnp
+client/node_modules
 .pnp.js
 backend/coverage
 backend/build
